@@ -1,0 +1,51 @@
+@model CEPViewModel;
+@{
+    Layout = "_Layout";
+}
+
+<h2>@ViewData["Tela"]</h2>
+
+@RenderBody()
+<form method="post" asp-controller="CEP" asp-action="@ViewData["Action"]">
+
+    <div class="form-group">
+        <label for="CEP" class="form-label">CEP</label>
+        <input class="form-control" asp-for="CEP" placeholder="Qual o CEP?" readonly=@((string)ViewData["Action"] == "ExcluirPost")>
+        <span class="text-danger" asp-validation-for="CEP"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Logradouro" class="form-label">Logradouro</label>
+        <input class="form-control" asp-for="Logradouro" placeholder="Qual o lougadouro?" readonly=@((string)ViewData["Action"] == "ExcluirPost")>
+        <span class="text-danger" asp-validation-for="Logradouro"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Cidade" class="form-label">Cidade</label>
+        <input class="form-control" asp-for="Cidade" placeholder="Qual a cidade?" readonly=@((string)ViewData["Action"] == "ExcluirPost")>
+        <span class="text-danger" asp-validation-for="Cidade"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Bairro" class="form-label">Bairro</label>
+        <input class="form-control" asp-for="Bairro" placeholder="Qual o bairro?" readonly=@((string)ViewData["Action"] == "ExcluirPost")>
+        <span class="text-danger" asp-validation-for="Bairro"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Estado" class="form-label">Estado</label>
+        <input class="form-control" asp-for="Estado" placeholder="Qual o estado?" readonly=@((string)ViewData["Action"] == "ExcluirPost")>
+        <span class="text-danger" asp-validation-for="Estado"></span>
+    </div>
+
+    <div class="d-flex gap-5 mt-5">
+        <a class="btn btn-primary w-50" asp-controller="CEP" asp-action="Lista">Voltar</a>
+        <button type="submit" class="btn @ViewData["ButtonColor"] w-50">@ViewData["Action"]</button>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,52 @@
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.csproj.AssemblyReference.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.AssemblyInfoInputs.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.AssemblyInfo.cs
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.RazorAssemblyInfo.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.RazorAssemblyInfo.cs
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\appsettings.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.staticwebassets.runtime.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.exe
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.deps.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.runtimeconfig.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\bin\Debug\net6.0\01_Controller.pdb
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\scopedcss\bundle\01_Controller.styles.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\scopedcss\projectbundle\01_Controller.bundle.scp.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\refint\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.pdb
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\01_Controller.genruntimeconfig.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\Documents\GitHub\ITAcademy20\ASP.NET\Aula04_17Jun\01_Controller\obj\Debug\net6.0\ref\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.staticwebassets.runtime.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.exe
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.deps.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.runtimeconfig.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\bin\Debug\net6.0\01_Controller.pdb
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.csproj.AssemblyReference.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.AssemblyInfoInputs.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.AssemblyInfo.cs
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.RazorAssemblyInfo.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.RazorAssemblyInfo.cs
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\scopedcss\bundle\01_Controller.styles.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\scopedcss\projectbundle\01_Controller.bundle.scp.css
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\refint\01_Controller.dll
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.pdb
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\01_Controller.genruntimeconfig.cache
+C:\Users\Matheus_Hilbert\OneDrive - Dell Technologies\IT ACADEMY\ASP.NET\ASP-MVC\obj\Debug\net6.0\ref\01_Controller.dll
